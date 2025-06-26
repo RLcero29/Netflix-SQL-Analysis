@@ -35,3 +35,6 @@ This project aims to explore and perform an analysis of Netflix's TV shows and m
 ![2e9e8fd666c03889c6be407054adbc7a](https://github.com/user-attachments/assets/4ec21769-12db-4358-8356-511f3f5466c3)
 
 ![e6952c4b28bb71035843289d4871bce3](https://github.com/user-attachments/assets/ab506bbb-1a37-4775-ab8a-c698df73dd3b)
+
+## Conclusions
+This dataset contains a wide range of movies and TV shows with various ratings and genres. This analysis can help inform content strategy and decision making for a specific country, genre, actor/actress, director, etc. It can help guide Netflix on which content to get rid of, push, or re-evaluate their library of offerings.
