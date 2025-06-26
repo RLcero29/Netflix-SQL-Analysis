@@ -16,5 +16,5 @@ This project aims to explore and perform an analysis of Netflix's TV shows and m
 ![9f353b27bc6adfb349f92f64d8f28d6c](https://github.com/user-attachments/assets/0d38f4fa-28e4-41d4-aeaa-b7939c7a9ee4)
 
 ## Business Problems & Solutions
-- Count Number of Movies and TV Shows
-![4db9ded23b47c40c98fe9fe21e4c4cf0](https://github.com/user-attachments/assets/23d31f52-746d-4883-84bc-2859aff8ea4f)
+**Count the number of TV Shows and Movies in the dataset**
+![4db9ded23b47c40c98fe9fe21e4c4cf0](https://github.com/user-attachments/assets/0933ff93-5391-4a28-b45d-f709a0724963)
